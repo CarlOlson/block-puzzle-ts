@@ -1,0 +1,14 @@
+{
+  "name": "block-puzzle-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CarlOlson <CarlOlson@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.1.1",
+    "mnemonist": "^0.38.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
